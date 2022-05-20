@@ -5,10 +5,9 @@ export default {
   title: "Example/Button",
   component: Button,
   parameters: {
-    myAddonParameter: `
-<MyComponent boolProp scalarProp={1} complexProp={{ foo: 1, bar: '2' }}>
-  <SomeOtherComponent funcProp={(a) => a.id} />
-</MyComponent>
+    widgetCode: `<skhemata-portfolio config-src="https://cdn.jsdelivr.net/npm/@skhemata/skhemata-portfolio@latest/demo/projects.json"></skhemata-portfolio>
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@skhemata/skhemata-portfolio@latest/build/index.js"></script>
 `,
   },
 };

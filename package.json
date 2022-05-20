@@ -1,9 +1,12 @@
 {
-  "name": "",
+  "name": "skhemata-storybook-addon",
   "version": "0.0.0",
   "description": "widget code",
   "keywords": [
-    "storybook", "addon", "widget", "storybook-addons"
+    "storybook",
+    "addon",
+    "widget",
+    "storybook-addons"
   ],
   "repository": {
     "type": "git",
@@ -82,7 +85,9 @@
   "storybook": {
     "displayName": "skhemata-stoorybook-addon",
     "supportedFrameworks": [
-      "react", "html", "web-components"
+      "react",
+      "html",
+      "web-components"
     ],
     "icon": "https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
   }
