@@ -1,6 +1,6 @@
 {
   "name": "skhemata-storybook-addon",
-  "version": "0.0.4",
+  "version": "0.0.0",
   "description": "widget code",
   "keywords": [
     "storybook",
@@ -39,7 +39,8 @@
     "build-storybook": "build-storybook",
     "prerelease": "zx scripts/prepublish-checks.mjs",
     "release": "yarn build && auto shipit",
-    "eject-ts": "zx scripts/eject-typescript.mjs"
+    "eject-ts": "zx scripts/eject-typescript.mjs",
+    "ship": "auto shipit"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
