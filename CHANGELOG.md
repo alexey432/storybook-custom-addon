@@ -1,3 +1,21 @@
+# v0.1.8 (Tue May 24 2022)
+
+#### ⚠️ Pushed to `main`
+
+- welcome.js script removed ([@alexey432](https://github.com/alexey432))
+- 0.1.0 ([@alexey432](https://github.com/alexey432))
+- testing 2 ([@alexey432](https://github.com/alexey432))
+- auto shipit ([@alexey432](https://github.com/alexey432))
+- panel created ([@alexey432](https://github.com/alexey432))
+- project setup ([@alexey432](https://github.com/alexey432))
+- Initial commit ([@alexey432](https://github.com/alexey432))
+
+#### Authors: 1
+
+- Alexey432 ([@alexey432](https://github.com/alexey432))
+
+---
+
 # v0.1.6 (Fri May 20 2022)
 
 #### ⚠️ Pushed to `main`
