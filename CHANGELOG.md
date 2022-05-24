@@ -1,5 +1,17 @@
 # v0.1.10 (Tue May 24 2022)
 
+#### ⚠️ Pushed to `main`
+
+- name changed (alexorl432@gmail.com)
+
+#### Authors: 1
+
+- alexey432 (alexorl432@gmail.com)
+
+---
+
+# v0.1.10 (Tue May 24 2022)
+
 
 
 ---
